@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">SocialNetworkMobile</string>
+    <string name="app_name">Utility SN</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="make_post">Make new post</string>
+    <string name="oops_something_went_wrong">Oops! Something went wrong</string>
+    <string name="error_couldnt_reach_server">Couldn\'t reach server!</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account_yet">Create an account</string>
+    <string name="sign_up">Register</string>
+    <string name="error_field_empty">Field empyty</string>
+    <string name="password_hint">Your password</string>
+    <string name="login_hint">Your username</string>
+    <string name="password_visible_content_description">Password visible content description</string>
+    <string name="password_hidden_content_description">Password hidden content description</string>
 </resources>
